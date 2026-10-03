@@ -26,6 +26,11 @@ Both assets pass the official ChatGPT Pets structural preflight:
 
 Each pet directory contains previews and a `metadata.json` file with its SHA-256 digest.
 
+## Latest update
+
+- `v1.0.1`: corrected the oversized raised and extended hands in both waving animations. Pet IDs, file format, and all other animation rows remain unchanged.
+- See [CHANGELOG.md](CHANGELOG.md) for the full release history.
+
 ## Installation
 
 1. Download `spritesheet.png` from the desired pet directory.

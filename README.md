@@ -26,6 +26,11 @@
 
 完整预览和 SHA-256 校验值见各角色目录中的 `previews/` 与 `metadata.json`。
 
+## 最新更新
+
+- `v1.0.1`：修正鹿目圆与晓美焰挥手动画中抬起、伸出手掌过大的比例问题；Pet ID、文件规格与其他动画保持不变。
+- 完整版本记录见 [CHANGELOG.md](CHANGELOG.md)。
+
 ## 使用方法
 
 1. 下载对应角色目录中的 `spritesheet.png`。

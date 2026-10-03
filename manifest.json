@@ -4,7 +4,7 @@
     {
       "pet": "homura-akemi",
       "file": "spritesheet.png",
-      "sha256": "71a398e56a2d8725f23cd5272e4c71969e755227a1bea90238c26858fcdf28ba",
+      "sha256": "ffa2de57e34187893bb365f12b0ae967f5914bd0bf7468dce61b78ffd0e8f0c4",
       "sprite_version": 2,
       "dimensions": {
         "width": 1536,
@@ -31,7 +31,7 @@
     {
       "pet": "madoka-kaname",
       "file": "spritesheet.png",
-      "sha256": "11ea3536a32a6e679ce357779f10b56ed76660092f87abb7c89f4f75e47da6f1",
+      "sha256": "42ca4f5f5e829e6cd97b13f1f3cb1aba0e277279e9b96614a83cd6aa25b7362a",
       "sprite_version": 2,
       "dimensions": {
         "width": 1536,
