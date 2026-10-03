@@ -1,0 +1,36 @@
+name: Pet compatibility report
+description: Report a rendering, animation, or import problem
+title: "[Pet issue]: "
+labels: ["pet-compatibility"]
+body:
+  - type: dropdown
+    id: pet
+    attributes:
+      label: Pet
+      options:
+        - Madoka Kaname
+        - Homura Akemi
+        - Both
+    validations:
+      required: true
+  - type: input
+    id: surface
+    attributes:
+      label: ChatGPT surface and version
+      placeholder: "Windows desktop app 1.x / Web"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include concise reproduction steps. Do not include private account data or conversations.
+    validations:
+      required: true
+  - type: checkboxes
+    id: source
+    attributes:
+      label: Source check
+      options:
+        - label: I reproduced this with the unmodified sprite sheet from this repository.
+          required: true

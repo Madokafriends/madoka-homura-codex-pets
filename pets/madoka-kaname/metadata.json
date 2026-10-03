@@ -1,0 +1,26 @@
+{
+  "file": "spritesheet.png",
+  "sha256": "11ea3536a32a6e679ce357779f10b56ed76660092f87abb7c89f4f75e47da6f1",
+  "sprite_version": 2,
+  "dimensions": {
+    "width": 1536,
+    "height": 2288
+  },
+  "cell": {
+    "width": 192,
+    "height": 208
+  },
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ]
+}

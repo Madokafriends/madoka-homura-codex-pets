@@ -1,0 +1,59 @@
+{
+  "format": "chatgpt-pets-v2",
+  "pets": [
+    {
+      "pet": "homura-akemi",
+      "file": "spritesheet.png",
+      "sha256": "71a398e56a2d8725f23cd5272e4c71969e755227a1bea90238c26858fcdf28ba",
+      "sprite_version": 2,
+      "dimensions": {
+        "width": 1536,
+        "height": 2288
+      },
+      "cell": {
+        "width": 192,
+        "height": 208
+      },
+      "frames_per_row": [
+        6,
+        8,
+        8,
+        4,
+        5,
+        8,
+        6,
+        6,
+        6,
+        8,
+        8
+      ]
+    },
+    {
+      "pet": "madoka-kaname",
+      "file": "spritesheet.png",
+      "sha256": "11ea3536a32a6e679ce357779f10b56ed76660092f87abb7c89f4f75e47da6f1",
+      "sprite_version": 2,
+      "dimensions": {
+        "width": 1536,
+        "height": 2288
+      },
+      "cell": {
+        "width": 192,
+        "height": 208
+      },
+      "frames_per_row": [
+        6,
+        8,
+        8,
+        4,
+        5,
+        8,
+        6,
+        6,
+        6,
+        8,
+        8
+      ]
+    }
+  ]
+}
